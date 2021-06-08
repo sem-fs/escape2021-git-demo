@@ -6,4 +6,6 @@ Usage:
 ```python
 
 from fibonacci import all
+
+fibonacci(30)
 ```
