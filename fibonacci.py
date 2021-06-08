@@ -23,7 +23,7 @@ def fibonacci(n):
 
 def fib_gen(n):
     for i in range(n):
-        yield fibonacci(n):
+        yield fibonacci(i):
 
 
 if __name__== '__main__':
