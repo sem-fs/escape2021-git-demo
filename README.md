@@ -6,4 +6,6 @@ Usage:
 ```python
 
 from fibonacci import all
+for n in range(n):
+	print(fibonacci(n))
 ```
