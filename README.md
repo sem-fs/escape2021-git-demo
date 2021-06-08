@@ -7,5 +7,7 @@ Usage:
 
 from fibonacci import all
 
-fibonacci(30)
+for n in range(n):
+	print(fibonacci(n))
 ```
+Hello world
